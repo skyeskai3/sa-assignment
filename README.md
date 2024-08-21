@@ -13,6 +13,10 @@ Despite average intra-year drops of -14%, the S&P 500 has achieved positive annu
 
 ## Assignment 2 (Option 1)
 
+
+https://github.com/user-attachments/assets/83e3e787-4713-4e2f-8fe8-da34c6f250e9
+
+
 ### Headline:
 Outpacing Top Market Giants
 
@@ -21,6 +25,10 @@ Mock company's strategy outpacing the S&P 500 and top market giants. Curious to 
 
 ## Assignment 2 (Option 2)
 
+
+https://github.com/user-attachments/assets/cea6ab6b-660b-4e35-ba13-376765c39766
+
+
 ### Headline:
 A Race to the Top!
 
@@ -28,6 +36,7 @@ A Race to the Top!
 Uncover the dynamics of S&P 500 trading. 📊 We highlight how your trading approach—from the top 7 traders to a streamlined S&P 493— could shape overall returns. See how our approach compares below! $SPX #fintech #TradingTips
 
 ## Assignment 2 (Option 3)
+![static_line_graph_title_update](https://github.com/user-attachments/assets/35f1322c-048d-4261-bd60-7e52f4a0664b)
 
 ### Headline:
 Strategy Showdown: Alpha Picks vs. S&P 500's Magnificent 7 and the Broader Market
@@ -36,6 +45,10 @@ Strategy Showdown: Alpha Picks vs. S&P 500's Magnificent 7 and the Broader Marke
 📊 Strategy Showdown! 🚀 Dive into our latest analysis comparing Alpha Picks against the S&P 500's top 7 giants and more. See how our picks stack up and subscribe to find out what’s driving their performance! #fintech #investingtips $SPY #TradingTips
 
 ## Assignment 2 (Option 4)
+
+
+https://github.com/user-attachments/assets/bf8adb74-42c9-4759-bb1f-d1a31fd8fca2
+
 
 ### Headline:
 AUM: Growth in Action, Alpha Picks Lead the Pack
